@@ -1,0 +1,2 @@
+# library
+Ideas for projects
